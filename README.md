@@ -98,7 +98,6 @@
 - **Movement**: Controls tank movement based on player input, including rotation and translation.
 - **Targeting and Firing**: Uses a `TargetingSystem` to acquire and attack targets, adjusting main turret and barrel positions dynamically.
 - **Projectile Firing**: Fires projectiles at targets within range, with customizable reload times and projectile types.
-- **AI Behavior**: Implements AI-controlled behavior to follow players or engage enemies based on unit status and targeting.
 
 This script integrates with Unity's physics and navigation systems, offering a robust framework for implementing tank units with interactive and dynamic gameplay mechanics.
 
